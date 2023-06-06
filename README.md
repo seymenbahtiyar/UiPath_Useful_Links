@@ -24,6 +24,9 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [Uninstall Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/modify-or-uninstall-studio#uninstall-studio)
 - [How to fix your Studio installation / Licensing issues](https://forum.uipath.com/t/how-to-fix-your-studio-installation-licensing-issues/133118)
 
+## Robot Troubleshooting
+- [Frequently Encountered Robot Errors](https://docs.uipath.com/robot/standalone/2022.10/user-guide/frequently-encountered-robot-errors)
+
 ## Orchestrator Deployment
 
 - [About Deployment](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/about-deployment)
