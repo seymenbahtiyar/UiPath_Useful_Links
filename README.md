@@ -18,6 +18,7 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Studio Setup
 - [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
 - [Hardware and Software Requirements](https://docs.uipath.com/studio/standalone/2022.10/user-guide/hardware-and-software-requirements)
+- This section will be updated.
 
 ## Uninstall UiPath (Robot & Studio)
 - [Uninstall Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/modify-or-uninstall-studio#uninstall-studio)
