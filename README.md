@@ -23,10 +23,22 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [Uninstall Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/modify-or-uninstall-studio#uninstall-studio)
 - [How to fix your Studio installation / Licensing issues](https://forum.uipath.com/t/how-to-fix-your-studio-installation-licensing-issues/133118)
 
+## Orchestrator Deployment
+
+- [About Deployment](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/about-deployment)
+- [Web Server on a Single Machine](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/web-server-on-a-single-machine)
+- [Multi-Node Deployment](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/multi-node-deployment)
+- [High Availability](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/high-availability)
+- [Disaster Recovery - Active/Passive](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/disaster-recovery-activepassive)
+- [Disaster Recovery - Two Active Data Centers](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/disaster-recovery-two-active-data-centers)
+
 ## Orchestrator Setup
 - [Hardware Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-hardware-requirements)
 - [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-software-requirements)
 - [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-prerequisites-for-installation)
+- [Certificate Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/certificate-considerations)
+- [About Installation](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-about-installation)
+- [Platform Configuration Tool](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/platform-configuration-tool)
 
 ## Orchestrator Maintenance
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
