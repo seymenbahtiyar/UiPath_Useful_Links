@@ -47,6 +47,9 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Orchestrator Maintenance
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
 
+## Product Licensing
+- [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
+- [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
 
 ## License
 
