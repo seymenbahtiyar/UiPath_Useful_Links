@@ -47,6 +47,12 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Orchestrator Maintenance
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
 
+## Orchestrator API
+- [Orchestrator Standalone API Guide](https://docs.uipath.com/orchestrator/standalone/2022.10/api-guide/read-me)
+- [Orchestrator Automation Cloud API Guide](https://docs.uipath.com/orchestrator/automation-cloud/latest/api-guide/read-me)
+- [Orchestrator Automation Suite API Guide](https://docs.uipath.com/orchestrator/automation-suite/2022.10/api-guide/read-me)
+
+
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
