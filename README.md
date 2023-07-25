@@ -52,6 +52,8 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [Orchestrator Automation Cloud API Guide](https://docs.uipath.com/orchestrator/automation-cloud/latest/api-guide/read-me)
 - [Orchestrator Automation Suite API Guide](https://docs.uipath.com/orchestrator/automation-suite/2022.10/api-guide/read-me)
 
+## Orchestrator Troubleshooting
+- [Changing The SSL Certificate For UiPath Orchestrator Website](https://forum.uipath.com/t/changing-the-ssl-certificate-for-uipath-orchestrator-website/345177)
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
