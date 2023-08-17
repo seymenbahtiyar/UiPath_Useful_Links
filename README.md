@@ -59,6 +59,11 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
 
+## Custom Activities
+- [Using The Activity Creator](https://docs.uipath.com/activities/other/latest/developer/using-activity-creator)
+- [For Windows Projects (.NET 6) Compatibility - UiPath Activity Creator 4.0 Download](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/UiPathLabs/vsextensions/UiPathActivitySet/4.0/vspackage)
+- [For Windows-Legacy Projects (.NET 4.6.1) Compatibility - UiPath Activity Creator 3.0 Download](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/UiPathLabs/vsextensions/UiPathActivitySet/3.0/vspackage)
+
 ## License
 
 [MIT](https://github.com/seymenbahtiyar/UiPath_Useful_Links/blob/main/LICENSE)
