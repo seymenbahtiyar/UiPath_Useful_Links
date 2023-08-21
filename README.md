@@ -46,6 +46,8 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [Certificate Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/certificate-considerations)
 - [About Installation](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-about-installation)
 - [Platform Configuration Tool](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/platform-configuration-tool)
+- [Orchestrator Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/configuring-tenant-settings)
+- [Setting up Alert Emails](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/setting-up-alert-emails)
 
 ## Orchestrator Maintenance
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
@@ -58,6 +60,10 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Orchestrator Troubleshooting
 - [Changing The SSL Certificate For UiPath Orchestrator Website](https://forum.uipath.com/t/changing-the-ssl-certificate-for-uipath-orchestrator-website/345177)
 - [How To Check Or Change Orchestrator Server’s SQL Credentials](https://forum.uipath.com/t/how-to-check-or-change-orchestrator-servers-sql-credentials/345144)
+- [400 Bad Request](https://forum.uipath.com/t/400-bad-request/506399)
+- [Updating The Azure PaaS Orchestrator Certificate](https://forum.uipath.com/t/updating-the-azure-paas-orchestrator-certificate/503170)
+- [An error occurred and the page will reload (#199)](https://forum.uipath.com/t/an-error-occurred-and-the-page-will-reload-199/502795)
+- [Cannot Access Orchestrator Due To Error: An Error Has Occurred, Errorcode: 0](https://forum.uipath.com/t/cannot-access-orchestrator-due-to-error-an-error-has-occurred-errorcode-0/503128)
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
