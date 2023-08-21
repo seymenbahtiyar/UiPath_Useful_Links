@@ -18,7 +18,10 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Studio Setup
 - [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
 - [Hardware and Software Requirements](https://docs.uipath.com/studio/standalone/2022.10/user-guide/hardware-and-software-requirements)
-- This section will be updated.
+- [Recommended Deployment](https://docs.uipath.com/robot/standalone/2022.10/user-guide/setting-up-interactive-sign-in#recommended-deployment)
+- [Install Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/install-studio)
+- [Connecting to Orchestrator](https://docs.uipath.com/studio/standalone/2022.10/user-guide/signing-in-to-your-account)
+- [Studio Settings](https://docs.uipath.com/studio/standalone/2022.10/user-guide/configuring-studio-settings)
 
 ## Uninstall UiPath (Robot & Studio)
 - [Uninstall Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/modify-or-uninstall-studio#uninstall-studio)
