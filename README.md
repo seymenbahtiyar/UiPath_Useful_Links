@@ -54,6 +54,7 @@ This repository contains useful links related to Uipath, a leading platform for 
 
 ## Orchestrator Troubleshooting
 - [Changing The SSL Certificate For UiPath Orchestrator Website](https://forum.uipath.com/t/changing-the-ssl-certificate-for-uipath-orchestrator-website/345177)
+- [How To Check Or Change Orchestrator Server’s SQL Credentials](https://forum.uipath.com/t/how-to-check-or-change-orchestrator-servers-sql-credentials/345144)
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
