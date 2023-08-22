@@ -78,6 +78,15 @@ This repository contains useful links related to UiPath, a leading platform for 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
+- [Platform licensing](https://docs.uipath.com/overview/other/latest/overview/licensing-levels)
+- [User licensing](https://docs.uipath.com/overview/other/latest/overview/user-licensing)
+- [Service licensing](https://docs.uipath.com/overview/other/latest/overview/service-licensing)
+- [License naming history](https://docs.uipath.com/overview/other/latest/overview/license-naming-history)
+
+## Product Delivery
+- [Product Availability](https://docs.uipath.com/overview/other/latest/overview/product-availability)
+- [Product Differences](https://docs.uipath.com/overview/other/latest/overview/product-differences)
+- [Orchestrator Differences](https://docs.uipath.com/overview/other/latest/overview/orchestrator-differences)
 
 ## Product Lifecycle
 - [Product Lifecycle Support Terms](https://docs.uipath.com/overview/other/latest/overview/general-support-terms)
