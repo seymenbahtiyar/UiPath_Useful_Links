@@ -98,6 +98,9 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
 - [Classic Folders Removal](https://docs.uipath.com/overview/other/latest/overview/classic-folders-removal)
 
+## Activities
+- [Activities](https://docs.uipath.com/activities/other/latest)
+
 ## Custom Activities
 - [Using The Activity Creator](https://docs.uipath.com/activities/other/latest/developer/using-activity-creator)
 - [For Windows Projects (.NET 6) Compatibility - UiPath Activity Creator 4.0 Download](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/UiPathLabs/vsextensions/UiPathActivitySet/4.0/vspackage)
