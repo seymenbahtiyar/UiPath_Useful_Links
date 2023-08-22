@@ -101,6 +101,9 @@ This repository contains useful links related to UiPath, a leading platform for 
 ## Product Release Notes
 - [Release Notes](https://docs.uipath.com/release-notes/other/latest)
 
+## Product Status - Uptime & Incidents
+- [UiPath Status](https://status.uipath.com/)
+
 ## Activities
 - [Activities](https://docs.uipath.com/activities/other/latest)
 
