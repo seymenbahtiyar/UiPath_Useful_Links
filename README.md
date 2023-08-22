@@ -112,6 +112,10 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [For Windows Projects (.NET 6) Compatibility - UiPath Activity Creator 4.0 Download](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/UiPathLabs/vsextensions/UiPathActivitySet/4.0/vspackage)
 - [For Windows-Legacy Projects (.NET 4.6.1) Compatibility - UiPath Activity Creator 3.0 Download](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/UiPathLabs/vsextensions/UiPathActivitySet/3.0/vspackage)
 
+## Community Forum
+- [Product News](https://forum.uipath.com/c/news/new-features/122)
+- [Knowledge Base](https://forum.uipath.com/c/news/knowledgebase/203)
+
 ## License
 
 [MIT](https://github.com/seymenbahtiyar/UiPath_Useful_Links/blob/main/LICENSE)
