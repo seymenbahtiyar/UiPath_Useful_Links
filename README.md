@@ -85,6 +85,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Out of Support Versions](https://docs.uipath.com/overview/other/latest/overview/out-of-support-versions)
 - [Deprecation Timeline](https://docs.uipath.com/overview/other/latest/overview/deprecation-timeline)
 - [Orchestrator Upgrade Paths](https://docs.uipath.com/overview/other/latest/overview/orchestrator-upgrade-paths)
+- [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
 - [Classic Folders Removal](https://docs.uipath.com/overview/other/latest/overview/classic-folders-removal)
 
 ## Custom Activities
