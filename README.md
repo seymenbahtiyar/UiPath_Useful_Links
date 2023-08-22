@@ -1,6 +1,6 @@
 # UiPath Useful Links
 
-This repository contains useful links related to Uipath, a leading platform for robotic process automation (RPA).
+This repository contains useful links related to UiPath, a leading platform for robotic process automation (RPA).
 
 !!! Important Note: Do not forget to consider the version information of the product you are using (example: Orchestrator 2022.10) while examining the links and documents!
 
@@ -77,6 +77,15 @@ This repository contains useful links related to Uipath, a leading platform for 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
+
+## Product Lifecycle
+- [Product Lifecycle Support Terms](https://docs.uipath.com/overview/other/latest/overview/general-support-terms)
+- [Product Lifecycle](https://docs.uipath.com/overview/other/latest/overview/product-lifecycle)
+- [Activities Lifecycle](https://docs.uipath.com/overview/other/latest/overview/activities-lifecycle)
+- [Out of Support Versions](https://docs.uipath.com/overview/other/latest/overview/out-of-support-versions)
+- [Deprecation Timeline](https://docs.uipath.com/overview/other/latest/overview/deprecation-timeline)
+- [Orchestrator Upgrade Paths](https://docs.uipath.com/overview/other/latest/overview/orchestrator-upgrade-paths)
+- [Classic Folders Removal](https://docs.uipath.com/overview/other/latest/overview/classic-folders-removal)
 
 ## Custom Activities
 - [Using The Activity Creator](https://docs.uipath.com/activities/other/latest/developer/using-activity-creator)
