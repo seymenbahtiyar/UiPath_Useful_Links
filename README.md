@@ -98,6 +98,9 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
 - [Classic Folders Removal](https://docs.uipath.com/overview/other/latest/overview/classic-folders-removal)
 
+## Product Release Notes
+- [Release Notes](https://docs.uipath.com/release-notes/other/latest)
+
 ## Activities
 - [Activities](https://docs.uipath.com/activities/other/latest)
 
