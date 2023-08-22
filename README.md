@@ -58,6 +58,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Orchestrator Automation Suite API Guide](https://docs.uipath.com/orchestrator/automation-suite/2022.10/api-guide/read-me)
 
 ## Orchestrator Troubleshooting
+- [Orchestrator Troubleshooting](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-troubleshooting)
 - [Changing The SSL Certificate For UiPath Orchestrator Website](https://forum.uipath.com/t/changing-the-ssl-certificate-for-uipath-orchestrator-website/345177)
 - [How To Check Or Change Orchestrator Server’s SQL Credentials](https://forum.uipath.com/t/how-to-check-or-change-orchestrator-servers-sql-credentials/345144)
 - [400 Bad Request](https://forum.uipath.com/t/400-bad-request/506399)
