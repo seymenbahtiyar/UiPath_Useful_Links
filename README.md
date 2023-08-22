@@ -49,8 +49,10 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Orchestrator Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/configuring-tenant-settings)
 - [Setting up Alert Emails](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/setting-up-alert-emails)
 
-## Orchestrator Maintenance
+## Orchestrator Best Practices
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
+- [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices)
+- [Security Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/security-best-practices)
 
 ## Orchestrator API
 - [Orchestrator Standalone API Guide](https://docs.uipath.com/orchestrator/standalone/2022.10/api-guide/read-me)
@@ -74,6 +76,19 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [UiPath.Orchestrator.dll.config - Password Vault](https://docs.uipath.com/orchestrator/standalone/2021.10/installation-guide/uipath-orchestrator-dll-config#password-vault)
 - [Storing Robot Credentials in CyberArk](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/storing-credentials-in-cyberark)
 - [Managing Credential Stores](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/managing-credential-stores)
+
+### - Elasticsearch
+- [About Logs](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-logs)
+- [Orchestrator Logs](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/orchestrator-logs)
+- [Hardware Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-hardware-requirements)
+- [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-software-requirements)
+- [Elasticsearch Server](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-prerequisites-for-installation#elasticsearch-server)
+- [Kibana](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-prerequisites-for-installation#kibana)
+- [Creating an Index Pattern to Connect to Elasticsearch](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/creating-an-index-pattern-to-connect-to-elasticsearch)
+- [The Windows Installer](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-the-windows-installer)
+- [UiPath.Orchestrator.dll.config](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/uipath-orchestrator-dll-config)
+- [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations#elasticsearch)
+- [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices#write-robot-logs-to-elasticsearch-and-use-asyncwrapper)
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
