@@ -65,6 +65,15 @@ This repository contains useful links related to Uipath, a leading platform for 
 - [An error occurred and the page will reload (#199)](https://forum.uipath.com/t/an-error-occurred-and-the-page-will-reload-199/502795)
 - [Cannot Access Orchestrator Due To Error: An Error Has Occurred, Errorcode: 0](https://forum.uipath.com/t/cannot-access-orchestrator-due-to-error-an-error-has-occurred-errorcode-0/503128)
 
+## Orchestrator Integrations
+
+### - CyberArk
+- [CyberArk® Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-integration)
+- [CyberArk® CCP Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-ccp-integration)
+- [UiPath.Orchestrator.dll.config - Password Vault](https://docs.uipath.com/orchestrator/standalone/2021.10/installation-guide/uipath-orchestrator-dll-config#password-vault)
+- [Storing Robot Credentials in CyberArk](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/storing-credentials-in-cyberark)
+- [Managing Credential Stores](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/managing-credential-stores)
+
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
