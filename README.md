@@ -53,6 +53,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
 - [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices)
 - [Security Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/security-best-practices)
+- [Automation Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/automation-best-practices)
 
 ## Orchestrator API
 - [Orchestrator Standalone API Guide](https://docs.uipath.com/orchestrator/standalone/2022.10/api-guide/read-me)
