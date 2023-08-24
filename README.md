@@ -13,6 +13,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Installing the Robot](https://docs.uipath.com/robot/standalone/2022.10/user-guide/installing-the-robot)
 - [Deploying Unattended Robots - Enterprise License](https://docs.uipath.com/robot/standalone/2022.10/user-guide/deploying-unattended-enterprise)
 - [Connecting Unattended Robots to Orchestrator - Using the Machine Key in the Assistant](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/connecting-robots-to-orchestrator#connecting-unattended-robots-to-orchestrator-using-the-machine-key-in-the-assistant)
+- [Services the Robot Connects to](https://docs.uipath.com/robot/standalone/2022.10/user-guide/services-the-robot-connects-to)
 - [Robot Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/robot-settings)
 
 ## Studio Setup
@@ -43,6 +44,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Hardware Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-hardware-requirements)
 - [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-software-requirements)
 - [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-prerequisites-for-installation)
+- [Configuring the Firewall](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/configuring-the-firewall)
+- [Server Roles and Features](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/server-roles-and-features)
 - [Certificate Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/certificate-considerations)
 - [About Installation](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/orchestrator-about-installation)
 - [Platform Configuration Tool](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/platform-configuration-tool)
