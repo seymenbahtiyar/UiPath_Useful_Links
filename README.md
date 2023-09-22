@@ -94,6 +94,12 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations#elasticsearch)
 - [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices#write-robot-logs-to-elasticsearch-and-use-asyncwrapper)
 
+### - Azure DevOps
+- [Azure DevOps Extension](https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/azure-devops-extension)
+- [Service Connection Configuration](https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/azure-devops-extension-service-connection-configuration)
+- [Job Tasks](https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/azure-devops-extension-job-tasks)
+- [How to Implement CICD Pipeline Using Azure DevOps Pipelines](https://www.uipath.com/community-blog/tutorials/how-to-implement-cicd-pipeline-using-azure-devops-pipelines)
+
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
 - [Activating Your License](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/activating-your-license)
