@@ -99,6 +99,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Service Connection Configuration](https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/azure-devops-extension-service-connection-configuration)
 - [Job Tasks](https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/azure-devops-extension-job-tasks)
 - [How to Implement CICD Pipeline Using Azure DevOps Pipelines](https://www.uipath.com/community-blog/tutorials/how-to-implement-cicd-pipeline-using-azure-devops-pipelines)
+- [Azure DevOps pipeline to build UiPath projects - Full demo and walkthrough](https://www.youtube.com/watch?v=d9zOeHMbUkE)
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
