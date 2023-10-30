@@ -15,6 +15,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Connecting Unattended Robots to Orchestrator - Using the Machine Key in the Assistant](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/connecting-robots-to-orchestrator#connecting-unattended-robots-to-orchestrator-using-the-machine-key-in-the-assistant)
 - [Services the Robot Connects to](https://docs.uipath.com/robot/standalone/2022.10/user-guide/services-the-robot-connects-to)
 - [Robot Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/robot-settings)
+- [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 
 ## Studio Setup
 - [Compatibility Matrix](https://docs.uipath.com/overview/other/latest/overview/compatibility-matrix)
@@ -23,6 +24,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Install Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/install-studio)
 - [Connecting to Orchestrator](https://docs.uipath.com/studio/standalone/2022.10/user-guide/signing-in-to-your-account)
 - [Studio Settings](https://docs.uipath.com/studio/standalone/2022.10/user-guide/configuring-studio-settings)
+- [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 
 ## Uninstall UiPath (Robot & Studio)
 - [Uninstall Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/modify-or-uninstall-studio#uninstall-studio)
@@ -51,6 +53,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Platform Configuration Tool](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/platform-configuration-tool)
 - [Orchestrator Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/configuring-tenant-settings)
 - [Setting up Alert Emails](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/setting-up-alert-emails)
+- [Orchestrator Setup Version 22.10.7 Download](https://download.uipath.com/versions/22.10.7/UiPathOrchestrator.msi)
+- [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 
 ## Orchestrator Upgrade
 - [Product Lifecycle - Manage](https://docs.uipath.com/overview/other/latest/overview/product-lifecycle#manage)
@@ -63,6 +67,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-prerequisites-for-installation)
 - [Backup and Restore](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/backup-and-restore)
 - [Maintenance Mode](https://docs.uipath.com/orchestrator/standalone/2023.4/user-guide/maintenance-mode)
+- [Orchestrator Setup Version 22.10.7 Download](https://download.uipath.com/versions/22.10.7/UiPathOrchestrator.msi)
+- [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 - [Academy - Classic to Modern Migration Tool](https://academy.uipath.com/courses/classic-to-modern-migration-tool-for-uipath-orchestrator)
 - [Academy - UiPath Orchestrator Installation and Troubleshooting](https://academy.uipath.com/courses/uipath-orchestrator-installation-and-troubleshooting)
 
