@@ -62,6 +62,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-software-requirements)
 - [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-prerequisites-for-installation)
 - [Backup and Restore](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/backup-and-restore)
+- [Maintenance Mode](https://docs.uipath.com/orchestrator/standalone/2023.4/user-guide/maintenance-mode)
 - [Academy - Classic to Modern Migration Tool](https://academy.uipath.com/courses/classic-to-modern-migration-tool-for-uipath-orchestrator)
 - [Academy - UiPath Orchestrator Installation and Troubleshooting](https://academy.uipath.com/courses/uipath-orchestrator-installation-and-troubleshooting)
 
