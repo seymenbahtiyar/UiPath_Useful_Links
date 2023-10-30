@@ -66,6 +66,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-software-requirements)
 - [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-prerequisites-for-installation)
 - [Backup and Restore](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/backup-and-restore)
+- [Before You Upgrade to 2023.4 or + Version](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/before-you-upgrade)
 - [Maintenance Mode](https://docs.uipath.com/orchestrator/standalone/2023.4/user-guide/maintenance-mode)
 - [Orchestrator Setup Version 22.10.7 Download](https://download.uipath.com/versions/22.10.7/UiPathOrchestrator.msi)
 - [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
