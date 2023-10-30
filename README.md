@@ -52,6 +52,20 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Orchestrator Settings](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/configuring-tenant-settings)
 - [Setting up Alert Emails](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/setting-up-alert-emails)
 
+## Orchestrator Upgrade
+- [Product Lifecycle - Manage](https://docs.uipath.com/overview/other/latest/overview/product-lifecycle#manage)
+- [Orchestrator Upgrade Paths](https://docs.uipath.com/overview/other/latest/overview/orchestrator-upgrade-paths)
+- [Classic Folders Removal](https://docs.uipath.com/overview/other/latest/overview/classic-folders-removal)
+- [Migrating From Classic Folders to Modern Folders](https://docs.uipath.com/orchestrator/standalone/2023.4/user-guide/migrating-from-classic-folders-to-modern-folders)
+- [About Updating and Migrating](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/about-updating-and-migrating)
+- [Hardware Requirements](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-hardware-requirements)
+- [Software Requirements](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-software-requirements)
+- [Prerequisites for Installation](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/orchestrator-prerequisites-for-installation)
+- [Backup and Restore](https://docs.uipath.com/orchestrator/standalone/2023.4/installation-guide/backup-and-restore)
+- [Academy - Classic to Modern Migration Tool](https://academy.uipath.com/courses/classic-to-modern-migration-tool-for-uipath-orchestrator)
+- [Academy - UiPath Orchestrator Installation and Troubleshooting](https://academy.uipath.com/courses/uipath-orchestrator-installation-and-troubleshooting)
+
+
 ## Orchestrator Best Practices
 - [Maintenance Considerations](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/maintenance-considerations)
 - [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices)
