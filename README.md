@@ -25,6 +25,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Install Studio](https://docs.uipath.com/studio/standalone/2022.10/user-guide/install-studio)
 - [Connecting to Orchestrator](https://docs.uipath.com/studio/standalone/2022.10/user-guide/signing-in-to-your-account)
 - [Services Studio Connects To](https://docs.uipath.com/studio/standalone/2022.10/user-guide/services-studio-connects-to)
+- [Managing Activities Packages](https://docs.uipath.com/studio/standalone/2022.10/user-guide/managing-activities-packages)
 - [Studio Settings](https://docs.uipath.com/studio/standalone/2022.10/user-guide/configuring-studio-settings)
 - [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 
