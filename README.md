@@ -120,6 +120,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Performance Best Practices](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/performance-best-practices#write-robot-logs-to-elasticsearch-and-use-asyncwrapper)
 
 ### - Azure DevOps
+- [UiPath CLI](https://docs.uipath.com/automation-ops/automation-cloud/latest/user-guide/uipath-command-line-interface)
 - [Azure DevOps Extension - Overview](https://docs.uipath.com/automation-ops/automation-cloud/latest/user-guide/azure-devops-extension)
 - [Azure DevOps Extension - Release Notes](https://docs.uipath.com/automation-ops/automation-cloud/latest/user-guide/azure-devops-extension-release-notes)
 - [Service Connection Configuration](https://docs.uipath.com/automation-ops/automation-cloud/latest/user-guide/azure-devops-extension-service-connection-configuration)
