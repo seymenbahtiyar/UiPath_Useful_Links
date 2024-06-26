@@ -99,6 +99,11 @@ This repository contains useful links related to UiPath, a leading platform for 
 
 ## Orchestrator Integrations
 
+### - Active Directory LDAP
+- [Configuring the Active Directory Integration](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/configuring-the-active-directory-integration)
+- [Accounts and Groups](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/accounts-and-groups#ad-integration)
+- [Orchestrator Authentication | UiPath Platform Infrastructure](https://www.youtube.com/watch?v=9ji9eEEKulM)
+
 ### - CyberArk
 - [CyberArk® Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-integration)
 - [CyberArk® CCP Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-ccp-integration)
