@@ -266,6 +266,17 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Knowledge Base](https://forum.uipath.com/c/news/knowledgebase/203)
 </details>
 
+<details>
+<summary>Trust & Security</summary>
+
+- [Security](https://www.uipath.com/legal/trust-and-security/security)
+- [Privacy Policy](https://www.uipath.com/legal/trust-and-security/privacy-policy)
+- [Legal Terms](https://www.uipath.com/legal/trust-and-security/legal-terms)
+- [Compliance](https://www.uipath.com/legal/trust-and-security/compliance)
+- [Faqs](https://www.uipath.com/legal/trust-and-security/faqs)
+
+</details>
+
 <br>
 
 ## License
