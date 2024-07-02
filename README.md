@@ -4,6 +4,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 
 !!! Important Note: Do not forget to consider the version information of the product you are using (example: Orchestrator 2022.10) while examining the links and documents!
 
+<br>
+
 <details>
 
 <summary>Robot Setup</summary>
@@ -131,6 +133,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 <details>
 <summary>Orchestrator Integrations</summary>
 
+<br>
+
 <details>
 <summary>- Active Directory LDAP</summary>
 
@@ -177,10 +181,14 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [How to Implement CICD Pipeline Using Azure DevOps Pipelines](https://www.uipath.com/community-blog/tutorials/how-to-implement-cicd-pipeline-using-azure-devops-pipelines)
 </details>
 
+<br>
+
 </details>
 
 <details>
 <summary>Studio Integrations</summary>
+
+<br>
 
 <details>
 <summary>- SAP Automation</summary>
@@ -188,6 +196,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [SAP WinGUI Configuration Steps](https://docs.uipath.com/studio/standalone/2023.10/user-guide/sap-wingui-configuration-steps)
 - [Supported SAP WinGUI Elements](https://docs.uipath.com/studio/standalone/2023.10/user-guide/supported-sap-wingui-elements)
 </details>
+
+<br>
 
 </details>
 
@@ -255,6 +265,8 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Product News](https://forum.uipath.com/c/news/new-features/122)
 - [Knowledge Base](https://forum.uipath.com/c/news/knowledgebase/203)
 </details>
+
+<br>
 
 ## License
 
