@@ -133,6 +133,13 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Azure DevOps pipeline to build UiPath projects - Full demo and walkthrough](https://www.youtube.com/watch?v=d9zOeHMbUkE)
 - [How to Implement CICD Pipeline Using Azure DevOps Pipelines](https://www.uipath.com/community-blog/tutorials/how-to-implement-cicd-pipeline-using-azure-devops-pipelines)
 
+## Studio Integrations
+
+### - SAP Automation
+- [SAP WinGUI Configuration Steps](https://docs.uipath.com/studio/standalone/2023.10/user-guide/sap-wingui-configuration-steps)
+- [Supported SAP WinGUI Elements](https://docs.uipath.com/studio/standalone/2023.10/user-guide/supported-sap-wingui-elements)
+
+
 
 ## Product Licensing
 - [About Licensing](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/about-licensing)
