@@ -54,6 +54,18 @@ This repository contains useful links related to UiPath, a leading platform for 
 </details>
 
 <details>
+
+<summary>Proxy & Firewall Troubleshooting</summary>
+
+- [Redirecting Robots Through a Proxy Server](https://docs.uipath.com/robot/standalone/2023.10/user-guide/redirecting-robots-through-a-proxy-server)
+- [Connecting to Feeds Through a Proxy Server](https://docs.uipath.com/studio/standalone/2023.10/user-guide/managing-activities-packages#connecting-to-feeds-through-a-proxy-server)
+- [Services Studio Connects To](https://docs.uipath.com/studio/standalone/2023.10/user-guide/services-studio-connects-to)
+- [Services the Robot Connects to](https://docs.uipath.com/robot/standalone/2023.10/user-guide/services-the-robot-connects-to)
+- [Configuring the Firewall](https://docs.uipath.com/orchestrator/standalone/2023.10/installation-guide/configuring-the-firewall)
+
+</details>
+
+<details>
 <summary>Orchestrator Deployment</summary>
 
 - [About Deployment](https://docs.uipath.com/orchestrator/standalone/2022.10/installation-guide/about-deployment)
