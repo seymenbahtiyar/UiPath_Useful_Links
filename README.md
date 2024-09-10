@@ -158,11 +158,12 @@ This repository contains useful links related to UiPath, a leading platform for 
 <details>
 <summary>- CyberArk</summary>
 
-- [CyberArk® Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-integration)
-- [CyberArk® CCP Integration](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/cyberark-ccp-integration)
-- [UiPath.Orchestrator.dll.config - Password Vault](https://docs.uipath.com/orchestrator/standalone/2021.10/installation-guide/uipath-orchestrator-dll-config#password-vault)
-- [Storing Robot Credentials in CyberArk](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/storing-credentials-in-cyberark)
-- [Managing Credential Stores](https://docs.uipath.com/orchestrator/standalone/2022.10/user-guide/managing-credential-stores)
+- [Credential Stores](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-credential-stores)
+- [CyberArk® Integration](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/integrating-credential-stores#cyberark%C2%AE-integration)
+- [CyberArk® CCP Integration](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/integrating-credential-stores#cyberark%C2%AE-ccp-integration)
+- [UiPath.Orchestrator.dll.config - Password Vault](https://docs.uipath.com/orchestrator/standalone/2023.10/installation-guide/uipath-orchestrator-dll-config#password-vault)
+- [Storing Robot Credentials in CyberArk](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/storing-credentials-in-cyberark)
+- [Managing Credential Stores](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/managing-credential-stores)
 </details>
 
 <details>
