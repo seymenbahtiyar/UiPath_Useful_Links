@@ -111,6 +111,7 @@ This repository contains useful links related to UiPath, a leading platform for 
 - [Studio & Robot Setup Version 22.10.11 Download](https://download.uipath.com/versions/22.10.11/UiPathStudio.msi)
 - [Academy - Classic to Modern Migration Tool](https://academy.uipath.com/courses/classic-to-modern-migration-tool-for-uipath-orchestrator)
 - [Academy - UiPath Orchestrator Installation and Troubleshooting](https://academy.uipath.com/courses/uipath-orchestrator-installation-and-troubleshooting)
+- [UiPath Orchestrator Standalone (On-Prem) Upgrade Guide / Checklist](https://forum.uipath.com/t/turkce-turkish-uipath-orchestrator-standalone-on-prem-upgrade-guide-checklist/689754)
 </details>
 
 <details>
